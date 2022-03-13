@@ -43,6 +43,6 @@ an esport company.
 🌋 working on nft project called african land.
 
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>"(<https://github.com/zerubabel4>)
-(zelelewzerubabel@gmail.com)
-(https://instagram.com/prince__zg?utm_medium=copy_link)
-(https://www.tiktok.com/@princepm_)
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='gmail' height='40'>"(zelelewzerubabel@gmail.com)
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='instagram' height='40'>"(https://instagram.com/prince__zg?utm_medium=copy_link)
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='tiktok' height='40'>"(https://www.tiktok.com/@princepm_)
