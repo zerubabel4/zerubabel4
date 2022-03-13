@@ -26,7 +26,7 @@
 
 🏀 playing basketball sometimes i feel like lebron james
 
-![Alt Text](https://media.giphy.com/media/3oEdv9kR4Jsl05gS4w/giphy-downsized-large.gif)
+![Alt Text](https://media.giphy.com/media/3oEdv9kR4Jsl05gS4w/giphy-downsized.gif)
 
 🎧 and listening music 24/7
 
