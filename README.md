@@ -6,7 +6,7 @@
 <br>
 <h2 align="center"> 🤴🏾 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 🤴🏾 </h2>
 
-🤴🏾 My name is **Zerubabel Zetahun (AKA Prince)**
+🤴🏾 My name is **Zerubabel Getahun (AKA Prince)**
 
 🔞 I'm 22 years old .
 
